@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MERN stack**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Cybersecurity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dhananjays4](https://github.com/dhananjays4)
 
