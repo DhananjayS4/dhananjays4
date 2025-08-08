@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhananjays4&label=Profile%20views&color=0e75b6&style=flat" alt="dhananjays4" /> </p>
 
-- 🔭 I am currently working on **Backend Development**
+- 🔭 I am currently working on **Cybersecurity**
 
-- 🌱 I am currently learning **Cybersecurity**
+- 🌱 I am currently learning **Full stack development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dhananjays4](https://github.com/dhananjays4)
 
